@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Barlow&family=Covered+By+Your+Grace&family=Golos+Text:wght@500&family=Lato:wght@400;700&family=Nerko+One&family=Phudu&family=Poller+One&family=Poppins:wght@200&family=Roboto+Slab:wght@300&family=Ubuntu&display=swap');
+*{
+  font-family: 'Golos Text', sans-serif;
+}
+#topicinside{
+  /* background:rgb(21, 20, 20); */
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-size: 120%;
+    margin: 0%;
+    padding: .5%;
+    font-family: 'Golos Text', sans-serif;
+    text-decoration: none;
+    /* color: rgb(200, 195, 195); */
+}
+.nametopic a{
+  text-decoration: none;
+  color: aliceblue;
+  
+}
+
+#nametopic3{
+  font-size:120%;
+}
+.area{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+#exampleFormControlTextarea1{
+  border:2px solid black;
+}
+#btnclass{
+  width: 80%;
+  margin: 2% 7%;
+}
+.textsummary{
+  width: 27%;
+  margin: 2% 1%;
+}
+#info{
+  height: 2vh;
+  margin: 1%;
+}
+#h{
+  width: 20%;
+}
+#display{
+
+}
+.homeabout{
+  width: 60%;
+  margin: 3% auto;
+  height: 70vh;
+}
